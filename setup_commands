@@ -13,3 +13,6 @@ Install PyQt5
 
 brew install PyQt5
 
+Install PyQt4 on OSX Sierra
+
+brew install cartr/qt4/qt
