@@ -1,0 +1,15 @@
+installer commands
+
+HomeBrew:
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+pip:
+
+wget https://bootstrap.pypa.io/get-pip.py
+
+sudo python get-pip.py
+
+Install PyQt5
+
+brew install PyQt5
+
